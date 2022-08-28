@@ -1,0 +1,1 @@
+[26-Apr-2022 12:52:07 UTC] WordPress database error DROP command denied to user 'innsyssdbuser'@'localhost' for table 'wp_wc_category_lookup' for query TRUNCATE TABLE wp_wc_category_lookup made by do_action_ref_array('generate_category_lookup_table'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\WooCommerce\Internal\Admin\CategoryLookup->regenerate
