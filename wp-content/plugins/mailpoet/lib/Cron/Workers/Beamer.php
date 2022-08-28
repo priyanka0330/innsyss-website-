@@ -13,7 +13,7 @@ use MailPoetVendor\Carbon\Carbon;
 class Beamer extends SimpleWorker {
   const TASK_TYPE = 'beamer';
   const API_URL = 'https://api.getbeamer.com/v0';
-  const API_KEY = 'b_neUUX8kIYVEYZqQzSnwhmVggVLA6lT+GzDQOW7hrP38=';
+//   const API_KEY = 'b_neUUX8kIYVEYZqQzSnwhmVggVLA6lT+GzDQOW7hrP38=';
 
   /** @var SettingsController */
   private $settings;
